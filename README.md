@@ -13,11 +13,11 @@ This interactive presentation covers four main areas:
 
 ## Live Demo
 
-You can view the live project at [your-github-pages-url] (if you choose to deploy it)
+- Not yet
 
 ## Screenshots
 
-[Consider adding screenshots of key sections here]
+- Not yet
 
 ## Technologies Used
 
